@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/sgraphy.ico</file>
+    <file>Icons/sgraphy.png</file>
+  </qresource>
+  <qresource prefix="InterfaceIcons">
+    <file>InterfaceIcons/Deselected/docs.png</file>
+    <file>InterfaceIcons/Deselected/images.png</file>
+    <file>InterfaceIcons/Deselected/music.png</file>
+    <file>InterfaceIcons/Deselected/other.png</file>
+    <file>InterfaceIcons/Deselected/text.png</file>
+    <file>InterfaceIcons/Selected/docs.png</file>
+    <file>InterfaceIcons/Selected/images.png</file>
+    <file>InterfaceIcons/Selected/music.png</file>
+    <file>InterfaceIcons/Selected/other.png</file>
+    <file>InterfaceIcons/Selected/text.png</file>
+  </qresource>
+  <qresource prefix="Fonts">
+    <file>Fonts/Montserrat-ExtraBold.ttf</file>
+    <file>Fonts/Montserrat-SemiBold.ttf</file>
+  </qresource>
+</RCC>

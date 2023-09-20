@@ -1,0 +1,5 @@
+# Interfaces
+pyuic5 Interfaces\MainWindow\ui.ui -o Code\MainWindow\ui.py
+
+# Resources
+pyrcc5 Interfaces\Resources\MainWindow.qrc -o Code\MainWindow\MainWindow_rc.py
